@@ -1,7 +1,9 @@
+/* navbar */
 .topdiv{
     background-color: black;
     position: fixed;
     width: 100%;
+    padding:10px;
   
 }
 .heading{
@@ -81,3 +83,5 @@ a{
 h1{
     text-align:center;
 }
+
+
